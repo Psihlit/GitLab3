@@ -1,1 +1,8 @@
-
+  <head>
+    <meta charset="UTF-8">
+    <title>Лабораторная работа No3. Кушнеров А.С.</title>
+  </head>
+  <body>
+    <h1>Это простая веб странница</h1>
+  </body>
+</html>
